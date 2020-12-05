@@ -1,0 +1,16 @@
+*{margin: 0; padding: 0;}
+li{list-style: none;}
+a{text-decoration: none;}
+
+
+h1{color: black; margin-left: 20px; line-height: 20px; float: left}
+
+div{margin-left: px;, margin-right: 50px; margin-bottom: 5px}
+
+
+.menu li{float:left; line-height: 10px; vertical-align: middle; text-align: center;}
+.menu a{line-height: 1px; color: black; padding: 0 20px; display: block; }
+
+img { display: block; margin-left: auto; margin-right: auto; width: inherit; max-width: 100%; height: auto}
+
+p {margin-top: 10px; margin-left: 20px;}
